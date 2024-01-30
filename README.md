@@ -14,7 +14,7 @@ Hello! I'm Ray, a student in Montreal Canada 🇨🇦
 <p align = "center">
   <!-- Rust -->
   <a href = "https://www.rust-lang.org/">
-![image](https://github.com/raydatray/raydatray/assets/102874367/73229206-fac7-43bf-9ec6-71a0c44a6a47)
+    <img src = "https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A460%2F1*5CaAdqoPeRNgmGaIy1Vfew.png&tbnid=9NaoUyWyuD_ACM&vet=12ahUKEwjI6vrypoaEAxVJCmIAHfE0Be4QMygDegQIARBZ..i&imgrefurl=https%3A%2F%2Fplgah.medium.com%2Fwill-i-become-a-rustacean-f1cdfe3bf98e&docid=2v7PIWnCSig3NM&w=460&h=344&q=rustacean&ved=2ahUKEwjI6vrypoaEAxVJCmIAHfE0Be4QMygDegQIARBZ" width = "60" height = "60"/>
   </a>
   
   <!-- Svelte -->

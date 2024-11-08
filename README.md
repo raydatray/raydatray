@@ -8,7 +8,6 @@ Hi! I'm Ray, a student in Montreal Canada 🇨🇦
 - :books: Studying Software Engineering @ McGill University
 - 🔧 Currently learning Rust and Svelte
 - 🏗️ Building a PCPartPicker analogue for home baristas
-- 🏋️ Probably lifting
 
 ### My Tools
 <p align = "center">

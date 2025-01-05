@@ -1,13 +1,6 @@
+I'm Ray, a student in Montreal Canada 🇨🇦
 
-
-
-
-Hi! I'm Ray, a student in Montreal Canada 🇨🇦
-
-### About Me
-- :books: Studying Software Engineering @ McGill University
-- 🔧 Currently learning Rust and Svelte
-- 🏗️ Building a PCPartPicker analogue for home baristas
+I write Java and Go professionally, Rust for fun. Occasional lifter
 
 ### My Tools
 <p align = "center">

@@ -1,1 +1,1 @@
-I write Java and Go professionally, Rust for fun. Occasional lifter
+I write Java, Go and Rust. Occasional lifter

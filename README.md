@@ -1,5 +1,6 @@
 i write go and rust. occasional lifter
 
-prev @Meta on the node platform, powering >5B QPS of polyglot, storage agnositic, and privacy aware access to the social graph
+@Shopify in emails and notifications infra
 
-prev @Shopify on the notification platform, delivering 100m emails and 1b push notifications daily 
+prev @Meta in core data
+

@@ -1,8 +1,6 @@
-i write go and rust. occasional lifter
+notifications (email, messaging, push) infra @Shopify
 
-@Shopify in emails and notifications infra
-
-prev @Meta in core data
+prev core data (polyglot ent) infra @Meta
 ```text
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠀⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠗⠀⠀⣀⣄⠀⢿⣿⣿⣿⠟⠁⢠⡆⠉⠙⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿
